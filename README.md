@@ -84,7 +84,7 @@ npx cap open android
 
 ---
 
-###Llicència
+### Llicència
 Aquest projecte es distribueix sota la llicència MIT.
 
 ---
